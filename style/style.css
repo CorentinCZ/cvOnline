@@ -1,3 +1,26 @@
-#who, #main {
-    background-color: bisque;
+header {
+    color: white;
+    background-color: #34495E;
 }
+
+header h1 {
+    border-bottom: 2px solid white;
+}
+
+#navButton a{
+    border-right: 1px solid white;
+}
+
+#who, #main {
+    padding-top: 20px;
+    background-color: #BDC3C7;
+}
+
+#who {
+    border-bottom: 2px solid black;
+}
+
+#interest {
+    background-color: #BDC3C7;
+}
+
