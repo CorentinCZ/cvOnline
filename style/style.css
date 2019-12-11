@@ -11,7 +11,7 @@ header h1 {
     border-right: 1px solid white;
 }
 
-#who, #main, #interest, #langue {
+#who, #main, #interest, #langue, #formation {
     padding-top: 20px;
     background-color: rgb(189, 208, 221);
 }
@@ -20,3 +20,8 @@ header h1 {
     border-bottom: 2px solid black;
 }
 
+@media(max-width: 991px){
+    #experience{
+        padding-top: 20px;
+    }
+}
