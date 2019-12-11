@@ -4,23 +4,19 @@ header {
 }
 
 header h1 {
-    border-bottom: 2px solid white;
+    border-bottom: 4px solid white;
 }
 
 #navButton a{
     border-right: 1px solid white;
 }
 
-#who, #main {
+#who, #main, #interest, #langue {
     padding-top: 20px;
-    background-color: #BDC3C7;
+    background-color: rgb(189, 208, 221);
 }
 
 #who {
     border-bottom: 2px solid black;
-}
-
-#interest {
-    background-color: #BDC3C7;
 }
 
